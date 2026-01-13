@@ -1,0 +1,12 @@
+/* style.module.css */
+
+
+  .logo {
+    height: 171px; /* Chiều cao logo */
+  }
+  @media (max-width: 768px) {
+    .logo {
+      height: 53px; /* Chiều cao logo cho điện thoại */
+    }
+  }
+  

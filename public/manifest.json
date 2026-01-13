@@ -1,0 +1,26 @@
+{
+  "short_name": "RR88",
+  "name": "RR88 TRUNG TÂM KHUYẾN MÃI",
+  "description": "Trung tâm khuyến mãi RR88 – Ưu đãi hot nhất, hoàn tiền cực khủng, quà tặng hấp dẫn dành cho thành viên mới và khách hàng thân thiết!",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#ffcc00",
+  "background_color": "#ffffff"
+}
